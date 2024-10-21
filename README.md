@@ -1,5 +1,5 @@
 # Oracle Chat Application
-
+deploy:https://oraclechat-ajq93buapmjzrq4w2dkqcn.streamlit.app
 ## Description
 
 This project is an interactive chat application built with `Streamlit` and `Langchain`, allowing interaction with different AI models (such as Groq and OpenAI) to answer questions and provide information based on files uploaded by the user. The project can load and process content from **websites**, **YouTube videos**, **PDF files**, **CSV files**, and **text files**.
